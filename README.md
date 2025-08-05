@@ -16,4 +16,4 @@ I love blending coding with creativity—creating efficient software, 3D visuals
 - LinkedIn: [@ompatil](https://www.linkedin.com/in/om-patil-7622a6258/)
 - Email: omp838765@gmail.com
 ## Resume
-- Download: [resume]([https://](https://raw.githubusercontent.com/Omvpatil/Omvpatil/main/final-resume.pdf))
+- Download: [resume](https://raw.githubusercontent.com/Omvpatil/Omvpatil/main/final-resume.pdf)
